@@ -7,5 +7,5 @@ Battle City PC
 
 Dodatkowe informacje:
 
-* W folderze compile_readme znajduj� si� biblioteki w skompilowanej postaci potrzebne do kompilacji
-* Projekt aktualnie nie jest ju� rozwijany
+* W folderze compile_readme znajdują sie biblioteki w skompilowanej postaci potrzebne do kompilacji
+* Projekt aktualnie nie jest rozwijany
